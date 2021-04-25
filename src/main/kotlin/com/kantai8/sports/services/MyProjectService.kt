@@ -1,6 +1,6 @@
-package com.github.ccominghome.mvvmtempalte.services
+package com.kantai8.sports.services
 
-import com.github.ccominghome.mvvmtempalte.MyBundle
+import com.kantai8.sports.MyBundle
 import com.intellij.openapi.project.Project
 
 class MyProjectService(project: Project) {

@@ -1,4 +1,4 @@
-package com.github.ccominghome.mvvmtempalte
+package com.kantai8.sports
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
